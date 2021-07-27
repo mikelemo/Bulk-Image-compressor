@@ -1,12 +1,14 @@
 ![](images/App_Preview.png)
 
-# Bulk-Image-compressor-
+# Bulk-Image-compressor
 Bulk image compressor and resizer essential for online application where speed is critical.
 
 # Intro 
 
 This is the first version of this image converter *not all the functionality
 is verified try at your own risk!!*
+
+The app is based upon the PyQt5.15 framework for image resize compression and UI
 
 # Usage:
 
